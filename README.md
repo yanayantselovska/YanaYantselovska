@@ -26,7 +26,7 @@ Hands‑on experience with log analysis, SIEM tooling, cloud IAM, threat detecti
 <img src="https://img.shields.io/badge/SOC%20Analysis-FF0000?style=for-the-badge&logoColor=white"/>
 
 <!-- Learning Platforms -->
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4136832" style='border:none;'></iframe>
 <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
 </p>
