@@ -72,15 +72,14 @@ Hands‑on experience with log analysis, SIEM tooling, cloud IAM, threat detecti
 
 ---
 
-## 🧪 2. Network Analysis & Monitoring
-
-### 🔹 **Wireshark vs tcpdump — Technical Comparison**
+🔹 **Wireshark vs tcpdump — Technical Comparison**  
 **Skills:** Packet capture, CLI vs GUI tooling, protocol analysis  
-**Highlights:**
+**Highlights:**  
 - Compared capabilities, performance, and use cases  
 - Documented strengths for SOC and remote server monitoring  
 **Status:** Completed  
-**Folder:** `/network/wireshark-tcpdump-comparison`
+**Folder:** [/network/wireshark-tcpdump-comparison](network/wireshark-tcpdump-comparison/README.md)
+
 
 ---
 
