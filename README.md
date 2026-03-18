@@ -26,12 +26,10 @@ Hands‑on experience with log analysis, SIEM tooling, cloud IAM, threat detecti
 <img src="https://img.shields.io/badge/SOC%20Analysis-FF0000?style=for-the-badge&logoColor=white"/>
 
 <!-- Learning Platforms -->
-<p><strong>TryHackMe Progress</strong></p>
-<p>
-  <a href="https://tryhackme.com/p/jadviga20101">
-    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4136832" alt="TryHackMe Badge">
-  </a>
-</p>
+<img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+
+[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4136832)](https://tryhackme.com/p/jadviga20101)
+
 
 
 
