@@ -82,14 +82,16 @@ Hands‑on experience with log analysis, SIEM tooling, cloud IAM, threat detecti
 
 ## ⚙️ 3. Scripting & Automation
 
-### 🔹 Python Log Parsing Toolkit
-**Skills:** Python, regex, IOC extraction, log enrichment  
-**Highlights:**
-- Parses authentication logs  
-- Extracts suspicious patterns  
-- Identifies failed login anomalies  
-**Status:** In progress  
-**Folder:** /automation/log-parser
+### 🔹 Algorithm for File Updates in Python — Access Control Automation
+**Skills:** Python, file handling, list manipulation, access control automation  
+**Highlights:**  
+- Parsed allow_list.txt to manage authorized IP addresses  
+- Removed IPs listed in remove_list  
+- Converted between strings and lists using `.split()` and `.join()`  
+- Updated the file with revised access control data  
+**Status:** Completed  
+**Folder:** /automation/file-update-algorithm
+
 
 ---
 
