@@ -60,14 +60,15 @@ Hands‑on experience with log analysis, SIEM tooling, cloud IAM, threat detecti
 
 ---
 
-### 🔹 **Data Leak Incident Analysis — NIST SP 800‑53 AC‑6**
+🔹 **Data Leak Incident Analysis — NIST SP 800‑53 AC‑6**  
 **Skills:** NIST control mapping, least privilege, incident analysis  
-**Highlights:**
+**Highlights:**  
 - Analyzed internal data exposure caused by excessive permissions  
 - Mapped findings to NIST AC‑6 (Least Privilege)  
 - Recommended RBAC, time‑bound access, and privilege audits  
 **Status:** Completed  
-**Folder:** `/governance/data-leak-analysis`
+**Folder:** [/governance/data-leak-analysis](governance/data-leak-analysis/README.md)
+
 
 ---
 
