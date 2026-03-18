@@ -25,8 +25,6 @@ The analysis was performed based on the alert details provided in the SOC ticket
 
 ---
 
----
-
 ## 🔍 Incident Summary
 **Ticket ID:** A‑2703  
 **Alert Message:** SERVER‑MAIL — Phishing attempt, possible malware download  
@@ -129,4 +127,3 @@ The alert was **correctly escalated** to Tier 2 due to the presence of a known m
 - Additional screenshots and analysis files located in `/evidence` and `/analysis` folders  
 
 
-## 📂 Project Structure
