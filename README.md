@@ -116,14 +116,19 @@ Hands‑on experience with log analysis, SIEM tooling, cloud IAM, threat detecti
 
 ---
 
-## 🌐 4. Web & Application Fundamentals
+## 4. Linux Security & Access Control
 
-### 🔹 **JavaScript Fundamentals (TryHackMe)**
-**Skills:** Variables, functions, loops, DOM basics  
-**Highlights:**
-- Built foundational JS knowledge for understanding client‑side attacks  
+### 🔹 **Linux File Permissions — Authorization & Access Control**
+**Skills:** Linux permissions, chmod, least privilege, system administration  
+**Highlights:**  
+- Audited file and directory permissions using `ls -la`  
+- Interpreted permission strings for user, group, and other  
+- Removed unauthorized write access from files  
+- Modified hidden file permissions to enforce read‑only access  
+- Restricted directory access to a specific user  
 **Status:** Completed  
-**Folder:** `/web/javascript-basics`
+**Folder:** [/linux/file-permissions-analysis](linux/file-permissions-analysis/README.md)
+
 
 ---
 
