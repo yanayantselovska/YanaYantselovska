@@ -1,4 +1,3 @@
-# Phishing Alert Triage — Ticket A‑2703
 # 🛡️ Phishing Alert Triage — Malicious Attachment (Ticket A‑2703)
 
 ## 📌 Overview
