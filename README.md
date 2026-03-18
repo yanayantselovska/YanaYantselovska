@@ -80,16 +80,6 @@ Hands‑on experience with log analysis, SIEM tooling, cloud IAM, threat detecti
 
 ---
 
-### 🔹 Packet Capture & Filtering Exercises
-**Skills:** BPF filters, traffic inspection, protocol identification  
-**Highlights:**
-- Captured and analyzed HTTP, DNS, and TCP handshake traffic  
-- Practiced filtering malicious indicators  
-**Status:** In progress  
-**Folder:** /network/pcap-exercises
-
----
-
 ## ⚙️ 3. Scripting & Automation
 
 ### 🔹 Python Log Parsing Toolkit
