@@ -46,26 +46,12 @@ This makes it easier to iterate and modify the data.
 I looped through the list of IPs and checked whether each one appears in `remove_list`.
 
 ### 5. **Remove unauthorized IP addresses**
-Inside the loop, I used:
-This removes any IP that should no longer have access.
+Inside the loop, I checked whether each IP address appears in the `remove_list`.  
+If it did, I removed it from the allow list.  
+This ensures that any IP that no longer has access is deleted from the updated list.
 
-# File that contains the allow list
-import_file = "allow_list.txt"
-
-# List of IPs that should be removed
-remove_list = ["192.168.1.10", "10.0.0.5"]
-
-# --- Read the file and convert contents to a list ---
-with open(import_file, "r") as file:
-    ip_addresses = file.read().split()
-
-# --- Remove IPs that appear in remove_list ---
+```python
+# 5. Remove unauthorized IP addresses
 for element in remove_list:
     if element in ip_addresses:
         ip_addresses.remove(element)
-
-# --- Convert list back to string and write updated data ---
-updated_ips = "\n".join(ip_addresses)
-
-with open(import_file, "w") as file:
-    file.write(updated_ips)
