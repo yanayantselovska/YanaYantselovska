@@ -85,12 +85,14 @@ Hands‑on experience with log analysis, SIEM tooling, cloud IAM, threat detecti
 ### 🔹 Algorithm for File Updates in Python — Access Control Automation
 **Skills:** Python, file handling, list manipulation, access control automation  
 **Highlights:**  
-- Parsed allow_list.txt to manage authorized IP addresses  
-- Removed IPs listed in remove_list  
+- Parsed `allow_list.txt` to manage authorized IP addresses  
+- Removed IPs listed in `remove_list` using conditional logic  
 - Converted between strings and lists using `.split()` and `.join()`  
-- Updated the file with revised access control data  
+- Updated the file with the revised access control data  
+- Demonstrated safe file handling using `with open()`  
 **Status:** Completed  
 **Folder:** /automation/file-update-algorithm
+
 
 
 ---
