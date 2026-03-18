@@ -1,5 +1,4 @@
-# 🛡️ Cybersecurity Portfolio — Yana Yantselovska
-Early‑career cybersecurity analyst focused on SOC operations, cloud security, detection engineering, and security automation.  
+Early‑career cybersecurity analyst focused on SOC operations, cloud security, detection engineering, and security automation.
 Hands‑on experience with log analysis, SIEM tooling, cloud IAM, threat detection fundamentals, and scripting for security workflows.
 
 <p align="left">
@@ -26,162 +25,161 @@ Hands‑on experience with log analysis, SIEM tooling, cloud IAM, threat detecti
 <img src="https://img.shields.io/badge/SOC%20Analysis-FF0000?style=for-the-badge&logoColor=white"/>
 
 <!-- Learning Platforms -->
-[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4136832)](https://tryhackme.com/p/YOUR_USERNAME)
+TryHackMe Badge (tryhackme.com in Bing)
 
 <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
 </p>
 
----
+📌 About Me
+SOC‑focused cybersecurity analyst transitioning into AI‑enhanced security workflows
 
-## 📌 About Me
-- SOC‑focused cybersecurity analyst transitioning into AI‑enhanced security workflows  
-- Strong foundation in Windows/Linux, networking, cloud, and security frameworks  
-- Hands‑on experience from Google Cybersecurity Professional Certificate + TryHackMe  
-- Currently working toward **ISC2 Certified in Cybersecurity (CC)** and **CompTIA Security+**  
-- Actively completing **AWS Cloud Practitioner labs** to strengthen cloud fundamentals  
-- Passionate about detection engineering, automation, and secure system design  
+Strong foundation in Windows/Linux, networking, cloud, and security frameworks
 
----
+Hands‑on experience from Google Cybersecurity Professional Certificate + TryHackMe
 
-# 🧩 Projects & Case Studies
+Currently working toward ISC2 Certified in Cybersecurity (CC) and CompTIA Security+
 
-## 🛡️## 1. SOC & Incident Response
+Actively completing AWS Cloud Practitioner labs to strengthen cloud fundamentals
 
-### 🔹 [Phishing Alert Triage — Malicious Attachment (Ticket A‑2703)](soc/phishing-alert-A2703/README.md)
-**Skills:** Email analysis, phishing indicators, hash verification, escalation  
-**Highlights:**
-- Identified sender mismatch, grammar anomalies, and malicious attachment  
-- Verified file hash against known malware  
-- Escalated to Tier 2 due to confirmed threat  
-**Status:** Completed  
-**Folder:** [`/soc/phishing-alert-A2703`](soc/phishing-alert-A2703/)
+Passionate about detection engineering, automation, and secure system design
 
+🧩 Projects & Case Studies
+🛡️ 1. SOC & Incident Response
+🔹 [Похоже, результат оказался небезопасным для отображения. Давайте внесем изменения и попробуем что-нибудь другое!]
+Skills: Email analysis, phishing indicators, hash verification, escalation
+Highlights:
 
----
+Identified sender mismatch, grammar anomalies, and malicious attachment
 
-🔹 **Data Leak Incident Analysis — NIST SP 800‑53 AC‑6**  
-**Skills:** NIST control mapping, least privilege, incident analysis  
-**Highlights:**  
-- Analyzed internal data exposure caused by excessive permissions  
-- Mapped findings to NIST AC‑6 (Least Privilege)  
-- Recommended RBAC, time‑bound access, and privilege audits  
-**Status:** Completed  
-**Folder:** [/governance/data-leak-analysis](governance/data-leak-analysis/README.md)
+Verified file hash against known malware
 
+Escalated to Tier 2 due to confirmed threat
+Status: Completed
+Folder: [Похоже, результат оказался небезопасным для отображения. Давайте внесем изменения и попробуем что-нибудь другое!]
 
----
+🔹 [Похоже, результат оказался небезопасным для отображения. Давайте внесем изменения и попробуем что-нибудь другое!]
+Skills: NIST control mapping, least privilege, incident analysis
+Highlights:
 
-🔹 **Wireshark vs tcpdump — Technical Comparison**  
-**Skills:** Packet capture, CLI vs GUI tooling, protocol analysis  
-**Highlights:**  
-- Compared capabilities, performance, and use cases  
-- Documented strengths for SOC and remote server monitoring  
-**Status:** Completed  
-**Folder:** [/network/wireshark-tcpdump-comparison](network/wireshark-tcpdump-comparison/README.md)
+Analyzed internal data exposure caused by excessive permissions
 
+Mapped findings to NIST AC‑6 (Least Privilege)
 
----
+Recommended RBAC, time‑bound access, and privilege audits
+Status: Completed
+Folder: [Похоже, результат оказался небезопасным для отображения. Давайте внесем изменения и попробуем что-нибудь другое!]
 
-### 🔹 **Packet Capture & Filtering Exercises**
-**Skills:** BPF filters, traffic inspection, protocol identification  
-**Highlights:**
-- Captured and analyzed HTTP, DNS, and TCP handshake traffic  
-- Practiced filtering malicious indicators  
-**Status:** In progress  
-**Folder:** `/network/pcap-exercises`
+🔹 [Похоже, результат оказался небезопасным для отображения. Давайте внесем изменения и попробуем что-нибудь другое!]
+Skills: Packet capture, CLI vs GUI tooling, protocol analysis
+Highlights:
 
----
+Compared capabilities, performance, and use cases
 
-## ⚙️ 3. Scripting & Automation
+Documented strengths for SOC and remote server monitoring
+Status: Completed
+Folder: [Похоже, результат оказался небезопасным для отображения. Давайте внесем изменения и попробуем что-нибудь другое!]
 
-### 🔹 **Python Log Parsing Toolkit**
-**Skills:** Python, regex, IOC extraction, log enrichment  
-**Highlights:**
-- Parses authentication logs  
-- Extracts suspicious patterns  
-- Identifies failed login anomalies  
-**Status:** In progress  
-**Folder:** `/automation/log-parser`
+🔹 Packet Capture & Filtering Exercises
+Skills: BPF filters, traffic inspection, protocol identification
+Highlights:
 
----
+Captured and analyzed HTTP, DNS, and TCP handshake traffic
 
-### 🔹 **Guess‑the‑Number (Control Flow Demo)**
-**Skills:** Python basics, loops, conditionals, input validation  
-**Highlights:**
-- Demonstrates foundational scripting logic  
-- Serves as a base for future automation projects  
-**Status:** Completed  
-**Folder:** `/automation/guess-the-number`
+Practiced filtering malicious indicators
+Status: In progress
+Folder: /network/pcap-exercises
 
----
+⚙️ 3. Scripting & Automation
+🔹 Python Log Parsing Toolkit
+Skills: Python, regex, IOC extraction, log enrichment
+Highlights:
 
-## 4. Linux Security & Access Control
+Parses authentication logs
 
-### 🔹 **Linux File Permissions — Authorization & Access Control**
-**Skills:** Linux permissions, chmod, least privilege, system administration  
-**Highlights:**  
-- Audited file and directory permissions using `ls -la`  
-- Interpreted permission strings for user, group, and other  
-- Removed unauthorized write access from files  
-- Modified hidden file permissions to enforce read‑only access  
-- Restricted directory access to a specific user  
-**Status:** Completed  
-**Folder:** [/linux/file-permissions-analysis](linux/file-permissions-analysis/README.md)
+Extracts suspicious patterns
 
+Identifies failed login anomalies
+Status: In progress
+Folder: /automation/log-parser
 
----
+🔹 Guess‑the‑Number (Control Flow Demo)
+Skills: Python basics, loops, conditionals, input validation
+Highlights:
 
-## 🧩 5. Digital World Fundamentals (TryHackMe)
+Demonstrates foundational scripting logic
 
-### 🔹 **Computers, OS, Software, Networks, Web — Full Summary**
-**Skills:** System architecture, networking, OS internals  
-**Highlights:**
-- Hardware → OS → Software → Network → Web layered understanding  
-- Forms the base for all cybersecurity analysis  
-**Status:** Completed  
-**Folder:** `/fundamentals/digital-world`
+Serves as a base for future automation projects
+Status: Completed
+Folder: /automation/guess-the-number
 
----
+🐧 4. Linux Security & Access Control
+🔹 [Похоже, результат оказался небезопасным для отображения. Давайте внесем изменения и попробуем что-нибудь другое!]
+Skills: Linux permissions, chmod, least privilege, system administration
+Highlights:
 
-# ☁️ Cloud Security (AWS)
+Audited file and directory permissions using ls -la
 
-### 🔹 **IAM & Identity Hardening**
-**Skills:** IAM roles, policies, MFA, least privilege  
-**Status:** In progress  
-**Folder:** `/cloud/iam-basics`
+Interpreted permission strings for user, group, and other
 
-### 🔹 **CloudTrail & GuardDuty Analysis**
-**Skills:** Audit logging, threat detection, cloud monitoring  
-**Status:** In progress  
-**Folder:** `/cloud/cloudtrail-guardduty`
+Removed unauthorized write access from files
 
-### 🔹 **AWS Cloud Practitioner Labs (Ongoing)**
-**Skills:** Cloud fundamentals, shared responsibility model, identity, monitoring  
-**Status:** In progress  
-**Folder:** `/cloud/aws-labs`
+Modified hidden file permissions to enforce read‑only access
 
----
+Restricted directory access to a specific user
+Status: Completed
+Folder: [Похоже, результат оказался небезопасным для отображения. Давайте внесем изменения и попробуем что-нибудь другое!]
 
-# 📚 Certifications & Learning
+🧩 5. Digital World Fundamentals (TryHackMe)
+🔹 Computers, OS, Software, Networks, Web — Full Summary
+Skills: System architecture, networking, OS internals
+Highlights:
 
-- **Google Cybersecurity Professional Certificate — Completed**  
-- **ISC2 Certified in Cybersecurity (CC) — In Progress**  
-- **CompTIA Security+ — In Progress**  
-- **AWS Cloud Practitioner — In Progress (Labs Ongoing)**  
-- **IBM Generative AI Engineering — In Progress**  
-- **TryHackMe Blue Team Path — Ongoing**
+Hardware → OS → Software → Network → Web layered understanding
 
----
+Forms the base for all cybersecurity analysis
+Status: Completed
+Folder: /fundamentals/digital-world
 
-# 🎯 Current Focus
-- Building SOC investigation case studies  
-- Expanding Python automation scripts  
-- Strengthening AWS security fundamentals  
-- Preparing for ISC2 CC + Security+  
-- Creating cloud + security mini‑projects for portfolio  
+☁️ Cloud Security (AWS)
+🔹 IAM & Identity Hardening
+Skills: IAM roles, policies, MFA, least privilege
+Status: In progress
+Folder: /cloud/iam-basics
 
----
+🔹 CloudTrail & GuardDuty Analysis
+Skills: Audit logging, threat detection, cloud monitoring
+Status: In progress
+Folder: /cloud/cloudtrail-guardduty
 
-# 🤝 Connect
+🔹 AWS Cloud Practitioner Labs (Ongoing)
+Skills: Cloud fundamentals, shared responsibility model, identity, monitoring
+Status: In progress
+Folder: /cloud/aws-labs
+
+📚 Certifications & Learning
+Google Cybersecurity Professional Certificate — Completed
+
+ISC2 Certified in Cybersecurity (CC) — In Progress
+
+CompTIA Security+ — In Progress
+
+AWS Cloud Practitioner — In Progress
+
+IBM Generative AI Engineering — In Progress
+
+TryHackMe Blue Team Path — Ongoing
+
+🎯 Current Focus
+Building SOC investigation case studies
+
+Expanding Python automation scripts
+
+Strengthening AWS security fundamentals
+
+Preparing for ISC2 CC + Security+
+
+Creating cloud + security mini‑projects for portfolio
+
+🤝 Connect
 Open to junior SOC, cloud security, and security automation opportunities.
