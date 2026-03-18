@@ -47,6 +47,16 @@ I looped through the list of IPs and checked whether each one appears in `remove
 
 ### 5. **Remove unauthorized IP addresses**
 Inside the loop, I used:
+This removes any IP that should no longer have access.
+
+6. Write the updated list back to the file
+After modifying the list:
+
+I used .join() to convert the list back into a string
+
+Opened the file again in write mode
+
+Used .write() to overwrite the old allow list with the updated one
 
 ```python
 if element in remove_list:
