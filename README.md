@@ -80,7 +80,7 @@ Hands‑on experience with log analysis, SIEM tooling, cloud IAM, threat detecti
 
 ---
 
-## ⚙️ 3. Scripting & Automation
+## ⚙️ 2. Scripting & Automation
 
 ### 🔹 [Algorithm for File Updates in Python — Access Control Automation](automation/file-update-algorithm/README.md)
 **Skills:** Python, file handling, list manipulation, access control automation  
@@ -95,7 +95,7 @@ Hands‑on experience with log analysis, SIEM tooling, cloud IAM, threat detecti
 
 ---
 
-## 🐧 4. Linux Security & Access Control
+## 🐧 3. Linux Security & Access Control
 
 ### 🔹 [Linux File Permissions — Authorization & Access Control](linux/file-permissions-analysis/README.md)
 **Skills:** Linux permissions, chmod, least privilege, system administration  
@@ -110,7 +110,7 @@ Hands‑on experience with log analysis, SIEM tooling, cloud IAM, threat detecti
 
 ---
 
-## 🧩 5. Digital World Fundamentals (TryHackMe)
+## 🧩 4. Digital World Fundamentals (TryHackMe)
 
 ### 🔹 Computers, OS, Software, Networks, Web — Full Summary
 **Skills:** System architecture, networking, OS internals  
