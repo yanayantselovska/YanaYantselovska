@@ -49,29 +49,23 @@ I looped through the list of IPs and checked whether each one appears in `remove
 Inside the loop, I used:
 This removes any IP that should no longer have access.
 
-6. Write the updated list back to the file
-After modifying the list:
+# File that contains the allow list
+import_file = "allow_list.txt"
 
-I used .join() to convert the list back into a string
+# List of IPs that should be removed
+remove_list = ["192.168.1.10", "10.0.0.5"]
 
-Opened the file again in write mode
+# --- Read the file and convert contents to a list ---
+with open(import_file, "r") as file:
+    ip_addresses = file.read().split()
 
-Used .write() to overwrite the old allow list with the updated one
-🧠 Key Takeaways
-Python provides simple and powerful tools for automating access control tasks
+# --- Remove IPs that appear in remove_list ---
+for element in remove_list:
+    if element in ip_addresses:
+        ip_addresses.remove(element)
 
-with open() ensures safe and clean file operations
+# --- Convert list back to string and write updated data ---
+updated_ips = "\n".join(ip_addresses)
 
-.split() and .join() are essential for switching between strings and lists
-
-.remove() allows dynamic modification of lists
-
-This workflow is applicable to allowlists, blocklists, firewall rules, and other security automation tasks
-
-🏁 Final Result
-The final algorithm successfully updates allow_list.txt by removing IP addresses that no longer have access to restricted content. This project demonstrates practical Python automation skills used in real-world cybersecurity environments.
-
-```python
-if element in remove_list:
-    ip_addresses.remove(element)
-
+with open(import_file, "w") as file:
+    file.write(updated_ips)
