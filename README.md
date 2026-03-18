@@ -46,16 +46,17 @@ Hands‑on experience with log analysis, SIEM tooling, cloud IAM, threat detecti
 
 # 🧩 Projects & Case Studies
 
-## 🛡️ 1. SOC & Incident Response
+## 🛡️## 1. SOC & Incident Response
 
-### 🔹 **Phishing Alert Triage — Malicious Attachment (Ticket A‑2703)**
+### 🔹 [Phishing Alert Triage — Malicious Attachment (Ticket A‑2703)](soc/phishing-alert-A2703/README.md)
 **Skills:** Email analysis, phishing indicators, hash verification, escalation  
 **Highlights:**
 - Identified sender mismatch, grammar anomalies, and malicious attachment  
 - Verified file hash against known malware  
 - Escalated to Tier 2 due to confirmed threat  
 **Status:** Completed  
-**Folder:** `/soc/phishing-alert-A2703`
+**Folder:** [`/soc/phishing-alert-A2703`](soc/phishing-alert-A2703/)
+
 
 ---
 
