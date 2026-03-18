@@ -55,3 +55,9 @@ This ensures that any IP that no longer has access is deleted from the updated l
 for element in remove_list:
     if element in ip_addresses:
         ip_addresses.remove(element)
+
+# 6. Write the updated list back to the file
+updated_ips = "\n".join(ip_addresses)
+
+with open(import_file, "w") as file:
+    file.write(updated_ips)
