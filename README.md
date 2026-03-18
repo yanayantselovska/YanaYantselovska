@@ -93,19 +93,6 @@ Hands‑on experience with log analysis, SIEM tooling, cloud IAM, threat detecti
 **Status:** Completed  
 **Folder:** [/automation/file-update-algorithm](automation/file-update-algorithm/)
 
-
-
-
----
-
-### 🔹 Guess‑the‑Number (Control Flow Demo)
-**Skills:** Python basics, loops, conditionals, input validation  
-**Highlights:**
-- Demonstrates foundational scripting logic  
-- Serves as a base for future automation projects  
-**Status:** Completed  
-**Folder:** /automation/guess-the-number
-
 ---
 
 ## 🐧 4. Linux Security & Access Control
