@@ -28,7 +28,7 @@ Hands‑on experience with log analysis, SIEM tooling, cloud IAM, threat detecti
 <!-- Learning Platforms -->
 <img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 
-[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4136832)](https://tryhackme.com/p/jadviga20101)
+
 
 
 
